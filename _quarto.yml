@@ -13,10 +13,10 @@ website:
             href: Episode2.html
           - text: "Episode 3"
             href: Episode3.html
-          - text: "Now you see it!"
-            href: xxx.html
-          - text: "Introduction to QGIS"
-            href: introQGIS.html
+      - text: "Now you see it!"
+        href: xxx.html
+      - text: "Introduction to QGIS"
+        href: introQGIS.html
     right: 
       - href: index.qmd
         text: Home
