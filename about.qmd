@@ -1,9 +1,15 @@
 ---
 title: "About"
+about: 
+  template: jolla
+  image: R.jpg
+  links: 
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+This website consists of a collection of slides I used in the bite-sized workshop organised by SMU library. I hope you find them useful. You feedback will be very much appreciated.
